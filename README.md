@@ -1,4 +1,4 @@
-Go to ```/tp-test/src/main/java/seedu ```
+Go to ```/tp-test/src/main/java/seedu ```  
 Key in:
 ```
 javac duke/Duke.java  
